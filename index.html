@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="La scaletta pubblica di Confetture."
+    />
+    <title>Confetture — Scaletta</title>
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <main class="page">
+      <header class="site-header">
+        <p class="eyebrow">CONFETTURE</p>
+        <h1 id="event-name">Scaletta</h1>
+        <p id="event-meta" class="event-meta" aria-live="polite">
+          Caricamento della scaletta…
+        </p>
+        <div class="publication-row">
+          <span id="publication-kind" class="publication-kind"></span>
+          <time id="publication-time"></time>
+        </div>
+      </header>
+
+      <section class="toolbar" aria-label="Filtri e download">
+        <label for="musician-filter">Filtra per musicista</label>
+        <select id="musician-filter" disabled>
+          <option value="">Tutti i musicisti</option>
+        </select>
+        <a id="general-pdf" class="button" href="./pdfs/scaletta-generale.pdf">
+          Scarica PDF generale
+        </a>
+        <a id="personal-pdf" class="button button-secondary" hidden>
+          Scarica PDF personale
+        </a>
+      </section>
+
+      <p id="site-message" class="message" role="status">
+        La scaletta verrà mostrata qui quando sarà pubblicata.
+      </p>
+      <section id="setlist" class="setlist" aria-label="Scaletta"></section>
+      <footer>
+        <p>
+          Stato assegnazioni: <strong>assegnato</strong>,
+          <em>provvisorio*</em>, da assegnare.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>

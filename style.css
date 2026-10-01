@@ -1,0 +1,245 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #20231f;
+  background: #f6f7f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+.page {
+  width: min(100% - 2rem, 900px);
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 3.5rem 0 2rem;
+  border-bottom: 1px solid #d9ddd6;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem;
+  color: #526b48;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.16em;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  letter-spacing: -0.045em;
+  line-height: 1.05;
+}
+
+.event-meta {
+  margin: 0.75rem 0 0;
+  color: #596057;
+  font-size: 1.05rem;
+}
+
+.publication-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.25rem;
+  color: #596057;
+  font-size: 0.875rem;
+}
+
+.publication-kind {
+  border: 1px solid #536e49;
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  color: #304729;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.publication-kind.provisional {
+  border-style: dashed;
+  color: #654d1d;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 0.75rem;
+  padding: 1.25rem 0;
+}
+
+.toolbar label {
+  display: grid;
+  gap: 0.35rem;
+  width: min(100%, 250px);
+  color: #465044;
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+
+select {
+  min-height: 2.65rem;
+  border: 1px solid #cbd1c6;
+  border-radius: 0.55rem;
+  padding: 0 0.7rem;
+  background: white;
+  color: inherit;
+  font: inherit;
+}
+
+.button {
+  display: inline-flex;
+  min-height: 2.65rem;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #344d30;
+  border-radius: 0.55rem;
+  padding: 0.55rem 0.85rem;
+  background: #344d30;
+  color: white;
+  font-size: 0.88rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #263b23;
+}
+
+.button-secondary {
+  border-color: #cbd1c6;
+  background: white;
+  color: #263b23;
+}
+
+.button-secondary:hover {
+  background: #ecefe9;
+}
+
+.message {
+  border: 1px solid #d9ddd6;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  color: #596057;
+  background: white;
+}
+
+.setlist {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.song {
+  border: 1px solid #d9ddd6;
+  border-radius: 0.85rem;
+  padding: 1.1rem 1.2rem;
+  background: white;
+  box-shadow: 0 2px 5px #20231f08;
+}
+
+.song-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.song-title {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.tonality {
+  color: #596057;
+  font-size: 0.85rem;
+}
+
+.song-notes {
+  margin: 0.6rem 0 0;
+  color: #596057;
+  white-space: pre-line;
+}
+
+.slots {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.slot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.25rem 1rem;
+  border-top: 1px solid #eef0ec;
+  padding-top: 0.45rem;
+  font-size: 0.9rem;
+}
+
+.slot-role {
+  color: #596057;
+}
+
+.slot-assignee {
+  font-weight: 650;
+}
+
+.slot-tentative {
+  text-decoration: underline dashed;
+  text-underline-offset: 0.2em;
+}
+
+.slot-open {
+  color: #70766d;
+  font-weight: 450;
+}
+
+footer {
+  margin: 2rem 0;
+  border-top: 1px solid #d9ddd6;
+  padding: 1rem 0 2rem;
+  color: #596057;
+  font-size: 0.8rem;
+}
+
+footer p {
+  margin: 0;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 540px) {
+  .site-header {
+    padding-top: 2.5rem;
+  }
+
+  .toolbar {
+    align-items: stretch;
+  }
+
+  .toolbar label,
+  .toolbar .button {
+    width: 100%;
+  }
+}
