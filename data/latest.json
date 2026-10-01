@@ -3,12 +3,12 @@
   "confettura_name": "Confets",
   "event_date": "2027-02-21",
   "snapshot_kind": "official",
-  "published_at": "2026-10-01T12:54:15.354437Z",
+  "published_at": "2026-10-01T22:07:23.342932Z",
   "songs": [
     {
       "position": 0,
       "title": "Maneater",
-      "tonality": null,
+      "tonality": "Re minore",
       "public_notes": "",
       "slots": [
         {
