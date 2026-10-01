@@ -1,0 +1,3023 @@
+{
+  "schema_version": 1,
+  "confettura_name": "Confets",
+  "event_date": "2027-02-21",
+  "snapshot_kind": "official",
+  "published_at": "2026-10-01T22:07:23.342932Z",
+  "songs": [
+    {
+      "position": 0,
+      "title": "Maneater",
+      "tonality": "Re minore",
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": "Francesca Maggiore",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce 2",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "voce 3",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 1,
+      "title": "I Want to Know What Love Is",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica (Eventuale non confermata)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Take My Breath Away",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso (con effetti? senno si fa col synth ma non so)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Karma Chameleon",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Armonica/Fisarmonica/Sax/ qualsiasi altro lead",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "True",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Your Love",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Iris",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alis Giacobbe",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2/solo",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Linger",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "chiara ciceri",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 8,
+      "title": "What's Up?",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alis Giacobbe",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "title": "Heaven",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alis Giacobbe",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Piano",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Principale",
+          "musician": "Tommaso magnaghi",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 10,
+      "title": "New Year's Day",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "title": "Sunday Bloody Sunday",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "title": "You Get What You Give",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Piano",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "title": "Live Forever",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Piano",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2/solo",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "title": "Ironic",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acusica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "title": "Valvonauta",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "title": "Io Sto Bene",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Piano",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 17,
+      "title": "Kiss me",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "chiara ciceri",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "Sofia Brovelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Armonica/tastiere/ altro lead per solo finale",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 18,
+      "title": "Narcotic",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica (opzionale, solo 2 strofa)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "title": "Virtual Insanity",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale ma gradita per riempire)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax (non obbligatorio, aggiunta)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 20,
+      "title": "Destinazione Paradiso",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiera",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 21,
+      "title": "Torn",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica Acustica",
+          "musician": "Alejandro Bellagente",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "title": "Smooth",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Tommaso magnaghi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 23,
+      "title": "9 to 5",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Miranda Winter",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Piano",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Chiara Medina",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 24,
+      "title": "Purple Rain",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "locked"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Francesco Liuzzi",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra 2/solo",
+          "musician": "Francesca Maggiore",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 25,
+      "title": "Footloose",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Synth",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 26,
+      "title": "Don't Cry",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 27,
+      "title": "Sweet Child O' Mine",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Tommaso magnaghi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Principale/Arpeggio",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 28,
+      "title": "Home Sweet Home",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "locked"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "locked"
+        },
+        {
+          "display_name": "Piano",
+          "musician": "Gabriele Limache",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Samuele Perucelli",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 29,
+      "title": "Don't Stop Believin'",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Piano",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Francesca Maggiore",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 30,
+      "title": "Call Me",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Synth/Solo",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Sofia Brovelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 31,
+      "title": "Beat It",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Principale/Solo",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 32,
+      "title": "Cosmic Girl",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (parti dei violini)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 33,
+      "title": "Pride (In the Name of Love)",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 34,
+      "title": "Ma quale idea",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce 2",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce 3",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Tommaso magnaghi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 35,
+      "title": "Easy Lover",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 36,
+      "title": "Smooth Operator",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Sofia Brovelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 37,
+      "title": "Nutshell",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 38,
+      "title": "Siamo Dei",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 39,
+      "title": "Deal 'Em Again",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 40,
+      "title": "Sì, si può",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "title": "Cuccurucucù",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 42,
+      "title": "La preda",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 43,
+      "title": "King for a Day",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 44,
+      "title": "Palco",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 45,
+      "title": "Eye In The Sky",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 46,
+      "title": "Enjoy The Silence",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Alejandro Bellagente",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 47,
+      "title": "Personal Jesus",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 48,
+      "title": "Walking In My Shoes (Live)",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Principale",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 49,
+      "title": "Il Monolocale",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "locked"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "locked"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "locked"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Luca Apostoli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "riccardo poletti!",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 50,
+      "title": "Orgoglio e dignità",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Piano",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica (opzionale)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 51,
+      "title": "Every Breath You Take",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Miranda Winter",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Arpeggio",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": "Francesca Maggiore",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 52,
+      "title": "Roxanne",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 53,
+      "title": "Message In A Bottle",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "locked"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "locked"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Margherita Franzino",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Luca Apostoli",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 54,
+      "title": "La femme d'argent (JAM)",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 1",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax (Opzionale)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 55,
+      "title": "E Ti Vengo A Cercare",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 56,
+      "title": "Owner of a Lonely Heart",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 57,
+      "title": "Changes",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Andrea Cinquini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 58,
+      "title": "Into The Great Wide Open",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 59,
+      "title": "Ballad Of Big Nothing",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 60,
+      "title": "Angeles",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 61,
+      "title": "Stronzo",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 62,
+      "title": "Puozze Passà' Nu Guaio",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 63,
+      "title": "For Your Babies",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 64,
+      "title": "Street Life",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax (Solo)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 65,
+      "title": "What I Am",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2 (Solo)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 66,
+      "title": "Circle",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 67,
+      "title": "Saving All My Love for You",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 68,
+      "title": "Hard to Say I'm Sorry",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Piano",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra (Solo)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 69,
+      "title": "Bollicine",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 70,
+      "title": "Against All Odds (Live Paris 2004)",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Piano",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 71,
+      "title": "Guilty",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 72,
+      "title": "Money's Too Tight",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 73,
+      "title": "It's So Easy",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra 2 (solo)",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 74,
+      "title": "Man in the Box",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "lorenzo \"l'uccello\" kappa",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 75,
+      "title": "Interstate Love Song",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": "Samuele Perucelli",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 76,
+      "title": "Wanted Dead Or Alive",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere (intro)",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 77,
+      "title": "Livin' On A Prayer",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "riccardo poletti!",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": "Tommaso magnaghi",
+          "status": "tentative"
+        }
+      ]
+    },
+    {
+      "position": 78,
+      "title": "You Give Love A Bad Name",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Mattia Giorcelli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Luca Apostoli",
+          "status": "locked"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Gioele Garolla",
+          "status": "locked"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Francesca Maggiore",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra Principale",
+          "musician": "Tommaso magnaghi",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 79,
+      "title": "Free Fallin'",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Giulio Cérou",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Alarico Agazzone",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere (opzionale)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 80,
+      "title": "Flick & Flock (Acustica)",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce 2",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 81,
+      "title": "High and Dry",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Aurora Libanoro",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Acustica",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra Elettrica",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "position": 82,
+      "title": "Wake Me Up Before You Go-Go",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Virginia Nicoletti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Voce",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gabriele Limache",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra Ritmica",
+          "musician": "Francesco Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2 (opzionale)",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": null,
+          "status": "open"
+        }
+      ]
+    }
+  ],
+  "pdfs": {
+    "general": "pdfs/scaletta-generale.pdf",
+    "by_musician": {
+      "Simone Tuia": "pdfs/scaletta-simone_tuia.pdf",
+      "Luca Apostoli": "pdfs/scaletta-luca_apostoli.pdf",
+      "Gabriele Limache": "pdfs/scaletta-gabriele_limache.pdf",
+      "Francesco Liuzzi": "pdfs/scaletta-francesco_liuzzi.pdf",
+      "Francesca Maggiore": "pdfs/scaletta-francesca_maggiore.pdf",
+      "Aurora Libanoro": "pdfs/scaletta-aurora_libanoro.pdf",
+      "Andrea Cinquini": "pdfs/scaletta-andrea_cinquini.pdf",
+      "Chiara Medina": "pdfs/scaletta-chiara_medina.pdf",
+      "Virginia Nicoletti": "pdfs/scaletta-virginia_nicoletti.pdf",
+      "Margherita Franzino": "pdfs/scaletta-margherita_franzino.pdf",
+      "Samuele Perucelli": "pdfs/scaletta-samuele_perucelli.pdf",
+      "Davide Liuzzi": "pdfs/scaletta-davide_liuzzi.pdf",
+      "Alis Giacobbe": "pdfs/scaletta-alis_giacobbe.pdf",
+      "chiara ciceri": "pdfs/scaletta-chiara_ciceri.pdf",
+      "Giulio Cérou": "pdfs/scaletta-giulio_cerou.pdf",
+      "Tommaso magnaghi": "pdfs/scaletta-tommaso_magnaghi.pdf",
+      "Gioele Garolla": "pdfs/scaletta-gioele_garolla.pdf",
+      "Mattia Giorcelli": "pdfs/scaletta-mattia_giorcelli.pdf",
+      "gabriele contini": "pdfs/scaletta-gabriele_contini.pdf",
+      "Sofia Brovelli": "pdfs/scaletta-sofia_brovelli.pdf",
+      "Alejandro Bellagente": "pdfs/scaletta-alejandro_bellagente.pdf",
+      "Miranda Winter": "pdfs/scaletta-miranda_winter.pdf",
+      "Alarico Agazzone": "pdfs/scaletta-alarico_agazzone.pdf",
+      "lorenzo \"l'uccello\" kappa": "pdfs/scaletta-lorenzo_l_uccello_kappa.pdf",
+      "riccardo poletti!": "pdfs/scaletta-riccardo_poletti.pdf"
+    }
+  }
+}
