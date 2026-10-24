@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-24T12:36:32.823915Z",
+  "published_at": "2026-10-24T12:42:44.122251Z",
   "songs": [
     {
       "position": 0,
@@ -178,44 +178,6 @@
       ]
     },
     {
-      "position": 4,
-      "title": "Simply Falling",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": "Auri",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Sax",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
       "position": 5,
       "title": "Frontline",
       "tonality": null,
@@ -250,39 +212,6 @@
           "display_name": "Tastiere",
           "musician": "Gonza",
           "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 6,
-      "title": "Rust",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": "Giulio Cérou",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori (Potete sbizzarrirvi anche con gridi e urli vari secondo me)",
-          "musician": null,
-          "status": "open"
         }
       ]
     },
@@ -363,39 +292,6 @@
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 9,
-      "title": "Stoned",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
           "status": "tentative"
         }
       ]
@@ -549,44 +445,6 @@
     },
     {
       "position": 14,
-      "title": "Colors",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Davide Liuzzi",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra 2",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 15,
       "title": "Fire",
       "tonality": null,
       "public_notes": "",
@@ -629,7 +487,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Will I See You Again?",
       "tonality": null,
       "public_notes": "",
@@ -667,7 +525,7 @@
       ]
     },
     {
-      "position": 17,
+      "position": 16,
       "title": "Waiting On the World to Change",
       "tonality": null,
       "public_notes": "",
@@ -705,7 +563,7 @@
       ]
     },
     {
-      "position": 18,
+      "position": 17,
       "title": "Belief",
       "tonality": null,
       "public_notes": "",
@@ -738,7 +596,7 @@
       ]
     },
     {
-      "position": 19,
+      "position": 18,
       "title": "The Heart of Life",
       "tonality": null,
       "public_notes": "",
@@ -766,7 +624,7 @@
       ]
     },
     {
-      "position": 20,
+      "position": 19,
       "title": "Slow Dancing in a Burning Room",
       "tonality": null,
       "public_notes": "",
@@ -809,7 +667,7 @@
       ]
     },
     {
-      "position": 21,
+      "position": 20,
       "title": "Felini",
       "tonality": null,
       "public_notes": "",
@@ -837,7 +695,7 @@
       ]
     },
     {
-      "position": 22,
+      "position": 21,
       "title": "Torpi",
       "tonality": null,
       "public_notes": "",
@@ -880,7 +738,7 @@
       ]
     },
     {
-      "position": 23,
+      "position": 22,
       "title": "Luminarie",
       "tonality": null,
       "public_notes": "",
@@ -908,7 +766,7 @@
       ]
     },
     {
-      "position": 24,
+      "position": 23,
       "title": "Palco",
       "tonality": null,
       "public_notes": "",
@@ -946,7 +804,7 @@
       ]
     },
     {
-      "position": 25,
+      "position": 24,
       "title": "Get Lucky",
       "tonality": null,
       "public_notes": "",
@@ -984,7 +842,7 @@
       ]
     },
     {
-      "position": 26,
+      "position": 25,
       "title": "Movie",
       "tonality": null,
       "public_notes": "",
@@ -1022,7 +880,7 @@
       ]
     },
     {
-      "position": 27,
+      "position": 26,
       "title": "Orange Blossoms",
       "tonality": null,
       "public_notes": "",
@@ -1055,7 +913,7 @@
       ]
     },
     {
-      "position": 28,
+      "position": 27,
       "title": "Clementine",
       "tonality": null,
       "public_notes": "",
@@ -1073,7 +931,7 @@
       ]
     },
     {
-      "position": 29,
+      "position": 28,
       "title": "Harness Your Hopes (B-side)",
       "tonality": null,
       "public_notes": "",
@@ -1106,7 +964,7 @@
       ]
     },
     {
-      "position": 30,
+      "position": 29,
       "title": "Scream (Funk my Life Up)",
       "tonality": null,
       "public_notes": "",
@@ -1154,7 +1012,7 @@
       ]
     },
     {
-      "position": 31,
+      "position": 30,
       "title": "Englishman In New York",
       "tonality": null,
       "public_notes": "",
@@ -1191,8 +1049,8 @@
         },
         {
           "display_name": "Cori",
-          "musician": "Ambra",
-          "status": "tentative"
+          "musician": "Davide Liuzzi",
+          "status": "locked"
         }
       ]
     },
