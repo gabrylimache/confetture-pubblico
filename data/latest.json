@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-24T11:37:16.130261Z",
+  "published_at": "2026-10-24T12:36:32.823915Z",
   "songs": [
     {
       "position": 0,
@@ -217,49 +217,6 @@
     },
     {
       "position": 5,
-      "title": "Red Moon",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Basso",
-          "musician": "Sebastiano Marchetti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra Acustica",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra Elettrica (Effetti)",
-          "musician": "gabriele contini",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 6,
       "title": "Frontline",
       "tonality": null,
       "public_notes": "",
@@ -297,7 +254,7 @@
       ]
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Rust",
       "tonality": null,
       "public_notes": "",
@@ -330,15 +287,15 @@
       ]
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Dracme",
       "tonality": null,
       "public_notes": "",
       "slots": [
         {
           "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
         },
         {
           "display_name": "Basso",
@@ -358,7 +315,7 @@
         {
           "display_name": "Chitarra",
           "musician": "Michele Graziotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Sax (impro)",
@@ -373,7 +330,7 @@
       ]
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "Gli Stessi",
       "tonality": null,
       "public_notes": "",
@@ -411,7 +368,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "Stoned",
       "tonality": null,
       "public_notes": "",
@@ -444,7 +401,7 @@
       ]
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "Shape of My Heart",
       "tonality": null,
       "public_notes": "",
@@ -482,7 +439,7 @@
       ]
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Organi Interni",
       "tonality": null,
       "public_notes": "",
@@ -515,7 +472,7 @@
       ]
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "Whitman",
       "tonality": null,
       "public_notes": "",
@@ -558,7 +515,7 @@
       ]
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Effimero",
       "tonality": null,
       "public_notes": "",
@@ -591,7 +548,7 @@
       ]
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "Colors",
       "tonality": null,
       "public_notes": "",
@@ -629,7 +586,7 @@
       ]
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Fire",
       "tonality": null,
       "public_notes": "",
@@ -672,50 +629,7 @@
       ]
     },
     {
-      "position": 17,
-      "title": "Can I call you Rose?",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": "Auri",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori",
-          "musician": "Auri",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Sax",
-          "musician": "Tommaso vanotti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 18,
+      "position": 16,
       "title": "Will I See You Again?",
       "tonality": null,
       "public_notes": "",
@@ -753,40 +667,7 @@
       ]
     },
     {
-      "position": 19,
-      "title": "Easier Said Than Done",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": "Alis Giacobbe",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 20,
+      "position": 17,
       "title": "Waiting On the World to Change",
       "tonality": null,
       "public_notes": "",
@@ -804,7 +685,7 @@
         {
           "display_name": "Voce",
           "musician": "Alis Giacobbe",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Acustica",
@@ -824,7 +705,7 @@
       ]
     },
     {
-      "position": 21,
+      "position": 18,
       "title": "Belief",
       "tonality": null,
       "public_notes": "",
@@ -857,7 +738,7 @@
       ]
     },
     {
-      "position": 22,
+      "position": 19,
       "title": "The Heart of Life",
       "tonality": null,
       "public_notes": "",
@@ -870,7 +751,7 @@
         {
           "display_name": "Voce",
           "musician": "Alis Giacobbe",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Arpeggi",
@@ -885,7 +766,7 @@
       ]
     },
     {
-      "position": 23,
+      "position": 20,
       "title": "Slow Dancing in a Burning Room",
       "tonality": null,
       "public_notes": "",
@@ -893,12 +774,12 @@
         {
           "display_name": "Batteria",
           "musician": "Mattia Giorcelli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Sebastiano Marchetti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -913,7 +794,7 @@
         {
           "display_name": "Chitarra Elettrica",
           "musician": "Tommaso Magnaghi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Cori",
@@ -928,7 +809,7 @@
       ]
     },
     {
-      "position": 24,
+      "position": 21,
       "title": "Felini",
       "tonality": null,
       "public_notes": "",
@@ -936,17 +817,17 @@
         {
           "display_name": "Chitarra",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce Maccucciu",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce Venerus",
-          "musician": null,
-          "status": "open"
+          "musician": "Gonza",
+          "status": "locked"
         },
         {
           "display_name": "Flauto",
@@ -956,7 +837,7 @@
       ]
     },
     {
-      "position": 25,
+      "position": 22,
       "title": "Torpi",
       "tonality": null,
       "public_notes": "",
@@ -999,7 +880,7 @@
       ]
     },
     {
-      "position": 26,
+      "position": 23,
       "title": "Luminarie",
       "tonality": null,
       "public_notes": "",
@@ -1027,7 +908,7 @@
       ]
     },
     {
-      "position": 27,
+      "position": 24,
       "title": "Palco",
       "tonality": null,
       "public_notes": "",
@@ -1065,7 +946,7 @@
       ]
     },
     {
-      "position": 28,
+      "position": 25,
       "title": "Get Lucky",
       "tonality": null,
       "public_notes": "",
@@ -1103,83 +984,7 @@
       ]
     },
     {
-      "position": 29,
-      "title": "So Caught Up",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Sax",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 30,
-      "title": "Ride the Storn",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Davide Liuzzi",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 31,
+      "position": 26,
       "title": "Movie",
       "tonality": null,
       "public_notes": "",
@@ -1217,7 +1022,7 @@
       ]
     },
     {
-      "position": 32,
+      "position": 27,
       "title": "Orange Blossoms",
       "tonality": null,
       "public_notes": "",
@@ -1235,7 +1040,7 @@
         {
           "display_name": "Voce",
           "musician": "Alis Giacobbe",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -1250,45 +1055,7 @@
       ]
     },
     {
-      "position": 33,
-      "title": "Gimme All Your Love",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra 1",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Chitarra 2",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 34,
+      "position": 28,
       "title": "Clementine",
       "tonality": null,
       "public_notes": "",
@@ -1306,7 +1073,7 @@
       ]
     },
     {
-      "position": 35,
+      "position": 29,
       "title": "Harness Your Hopes (B-side)",
       "tonality": null,
       "public_notes": "",
@@ -1339,7 +1106,7 @@
       ]
     },
     {
-      "position": 36,
+      "position": 30,
       "title": "Scream (Funk my Life Up)",
       "tonality": null,
       "public_notes": "",
@@ -1387,45 +1154,7 @@
       ]
     },
     {
-      "position": 37,
-      "title": "Iron Sky",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Davide Liuzzi",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "Michele Graziotti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Sax",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 38,
+      "position": 31,
       "title": "Englishman In New York",
       "tonality": null,
       "public_notes": "",
@@ -1468,7 +1197,7 @@
       ]
     },
     {
-      "position": 39,
+      "position": 32,
       "title": "Strasburg / St. Denis",
       "tonality": null,
       "public_notes": "",
@@ -1522,11 +1251,11 @@
       "Tommaso Magnaghi": "pdfs/scaletta-tommaso_magnaghi.pdf",
       "Davide Liuzzi": "pdfs/scaletta-davide_liuzzi.pdf",
       "Gioele Garolla": "pdfs/scaletta-gioele_garolla.pdf",
-      "Sebastiano Marchetti": "pdfs/scaletta-sebastiano_marchetti.pdf",
       "Michele Graziotti": "pdfs/scaletta-michele_graziotti.pdf",
       "Ambra": "pdfs/scaletta-ambra.pdf",
-      "Alis Giacobbe": "pdfs/scaletta-alis_giacobbe.pdf",
-      "Mattia Giorcelli": "pdfs/scaletta-mattia_giorcelli.pdf"
+      "Mattia Giorcelli": "pdfs/scaletta-mattia_giorcelli.pdf",
+      "Sebastiano Marchetti": "pdfs/scaletta-sebastiano_marchetti.pdf",
+      "Alis Giacobbe": "pdfs/scaletta-alis_giacobbe.pdf"
     }
   }
 }
