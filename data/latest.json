@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-23T19:30:43.705143Z",
+  "published_at": "2026-10-24T11:37:16.130261Z",
   "songs": [
     {
       "position": 0,
@@ -14,12 +14,12 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Lorenzo Comoli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -34,17 +34,17 @@
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Acustica",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Elettrica",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -147,7 +147,7 @@
         },
         {
           "display_name": "Basso",
-          "musician": "Sebastiano Marchetti",
+          "musician": "Lorenzo Comoli",
           "status": "tentative"
         },
         {
@@ -395,8 +395,8 @@
         },
         {
           "display_name": "Voce",
-          "musician": "Ambra",
-          "status": "tentative"
+          "musician": "Auri",
+          "status": "locked"
         },
         {
           "display_name": "Tastiera",
@@ -452,32 +452,32 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Giulio Cérou",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "Auri",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
           "musician": "Gioele Garolla",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "carlo erlank",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Seconde Voci",
-          "musician": "Auri",
-          "status": "tentative"
+          "musician": "Ambra",
+          "status": "locked"
         }
       ]
     },
@@ -500,7 +500,7 @@
         {
           "display_name": "Voce",
           "musician": "Ambra",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -533,7 +533,7 @@
         {
           "display_name": "Voce Donna",
           "musician": "Ambra",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce Uomo",
@@ -565,23 +565,28 @@
       "slots": [
         {
           "display_name": "Voce",
-          "musician": "Ambra",
-          "status": "tentative"
+          "musician": "Auri",
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere (opzionale)",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Cori",
           "musician": null,
           "status": "open"
+        },
+        {
+          "display_name": "2a Voce",
+          "musician": "Ambra",
+          "status": "locked"
         }
       ]
     },
@@ -793,8 +798,8 @@
         },
         {
           "display_name": "Basso",
-          "musician": null,
-          "status": "open"
+          "musician": "Sebastiano Marchetti",
+          "status": "tentative"
         },
         {
           "display_name": "Voce",
@@ -859,8 +864,8 @@
       "slots": [
         {
           "display_name": "Basso",
-          "musician": null,
-          "status": "open"
+          "musician": "Sebastiano Marchetti",
+          "status": "tentative"
         },
         {
           "display_name": "Voce",
@@ -892,8 +897,8 @@
         },
         {
           "display_name": "Basso",
-          "musician": null,
-          "status": "open"
+          "musician": "Sebastiano Marchetti",
+          "status": "tentative"
         },
         {
           "display_name": "Voce",
@@ -959,22 +964,22 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Lorenzo Comoli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra 2 (opzionale)",
@@ -984,12 +989,12 @@
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -1068,7 +1073,7 @@
         {
           "display_name": "Batteria",
           "musician": "Mattia Giorcelli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
@@ -1078,22 +1083,22 @@
         {
           "display_name": "Voce",
           "musician": "Gioele Garolla",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra 1",
           "musician": "Tommaso Magnaghi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra 2",
           "musician": "Michele Graziotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "carlo erlank",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -1267,8 +1272,8 @@
         },
         {
           "display_name": "Chitarra 1",
-          "musician": null,
-          "status": "open"
+          "musician": "“clessidra” poletti",
+          "status": "locked"
         },
         {
           "display_name": "Chitarra 2",
@@ -1291,12 +1296,12 @@
         {
           "display_name": "Chitarra",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -1335,44 +1340,6 @@
     },
     {
       "position": 36,
-      "title": "One Day",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra 2",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 37,
       "title": "Scream (Funk my Life Up)",
       "tonality": null,
       "public_notes": "",
@@ -1420,7 +1387,7 @@
       ]
     },
     {
-      "position": 38,
+      "position": 37,
       "title": "Iron Sky",
       "tonality": null,
       "public_notes": "",
@@ -1458,7 +1425,7 @@
       ]
     },
     {
-      "position": 39,
+      "position": 38,
       "title": "Englishman In New York",
       "tonality": null,
       "public_notes": "",
@@ -1501,7 +1468,7 @@
       ]
     },
     {
-      "position": 40,
+      "position": 39,
       "title": "Strasburg / St. Denis",
       "tonality": null,
       "public_notes": "",
@@ -1554,8 +1521,8 @@
       "carlo erlank": "pdfs/scaletta-carlo_erlank.pdf",
       "Tommaso Magnaghi": "pdfs/scaletta-tommaso_magnaghi.pdf",
       "Davide Liuzzi": "pdfs/scaletta-davide_liuzzi.pdf",
-      "Sebastiano Marchetti": "pdfs/scaletta-sebastiano_marchetti.pdf",
       "Gioele Garolla": "pdfs/scaletta-gioele_garolla.pdf",
+      "Sebastiano Marchetti": "pdfs/scaletta-sebastiano_marchetti.pdf",
       "Michele Graziotti": "pdfs/scaletta-michele_graziotti.pdf",
       "Ambra": "pdfs/scaletta-ambra.pdf",
       "Alis Giacobbe": "pdfs/scaletta-alis_giacobbe.pdf",
