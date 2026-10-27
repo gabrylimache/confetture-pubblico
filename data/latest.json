@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-27T18:20:28.984797Z",
+  "published_at": "2026-10-27T19:26:47.955211Z",
   "songs": [
     {
       "position": 0,
@@ -56,8 +56,8 @@
       "slots": [
         {
           "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
+          "musician": "Simone Tuia",
+          "status": "tentative"
         },
         {
           "display_name": "Basso",
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "Frontline",
       "tonality": null,
       "public_notes": "",
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "position": 7,
+      "position": 5,
       "title": "Dracme",
       "tonality": null,
       "public_notes": "",
@@ -259,7 +259,7 @@
       ]
     },
     {
-      "position": 8,
+      "position": 6,
       "title": "Gli Stessi",
       "tonality": null,
       "public_notes": "",
@@ -921,6 +921,44 @@
       ]
     },
     {
+      "position": 29,
+      "title": "Strasburg / St. Denis",
+      "tonality": null,
+      "public_notes": "",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Simone Tuia",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "gabriele contini",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra 2",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Sax",
+          "musician": "Tommaso vanotti",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gonza",
+          "status": "locked"
+        }
+      ]
+    },
+    {
       "position": 30,
       "title": "Englishman In New York",
       "tonality": null,
@@ -959,44 +997,6 @@
         {
           "display_name": "Cori",
           "musician": "Davide Liuzzi",
-          "status": "locked"
-        }
-      ]
-    },
-    {
-      "position": 32,
-      "title": "Strasburg / St. Denis",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "gabriele contini",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra 2",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Sax",
-          "musician": "Tommaso vanotti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "Gonza",
           "status": "locked"
         }
       ]
