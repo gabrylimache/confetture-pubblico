@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-27T19:26:47.955211Z",
+  "published_at": "2026-10-27T23:32:25.635951Z",
   "songs": [
     {
       "position": 0,
@@ -152,8 +152,8 @@
         },
         {
           "display_name": "Voce Maschio",
-          "musician": null,
-          "status": "open"
+          "musician": "Gioele Garolla",
+          "status": "tentative"
         },
         {
           "display_name": "Voce Donna",
@@ -200,8 +200,8 @@
         },
         {
           "display_name": "Chitarra Risposta a Sax",
-          "musician": null,
-          "status": "open"
+          "musician": "gabriele contini",
+          "status": "tentative"
         },
         {
           "display_name": "Sax",
