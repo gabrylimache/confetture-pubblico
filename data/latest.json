@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-28T17:29:35.913049Z",
+  "published_at": "2026-10-28T17:35:21.949035Z",
   "songs": [
     {
       "position": 0,
@@ -57,32 +57,32 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Giulio Cérou",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "Auri",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Ritmica",
           "musician": "Alejandro Bellagente",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Principale (tema)",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiera",
           "musician": "carlo erlank",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "2a Voce",
@@ -143,12 +143,12 @@
         {
           "display_name": "Batteria",
           "musician": "Davide Liuzzi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Lorenzo Comoli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce Maschio",
@@ -163,17 +163,17 @@
         {
           "display_name": "Chitarra Ritmica",
           "musician": "Gioele Garolla",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Principale",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiera",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -186,32 +186,32 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Giulio Cérou",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Ritmica",
           "musician": "Tommaso Magnaghi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Risposta a Sax",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -224,22 +224,22 @@
         {
           "display_name": "Batteria",
           "musician": "Davide Liuzzi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Lorenzo Comoli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "Auri",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -249,7 +249,7 @@
         {
           "display_name": "Sax (impro)",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Cori",
@@ -1015,12 +1015,12 @@
         {
           "display_name": "Batteria",
           "musician": "Davide Liuzzi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Lorenzo Comoli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -1030,12 +1030,12 @@
         {
           "display_name": "Voce",
           "musician": "Auri",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -1045,7 +1045,7 @@
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     }
