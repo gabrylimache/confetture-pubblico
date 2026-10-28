@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-27T23:32:25.635951Z",
+  "published_at": "2026-10-28T17:29:35.913049Z",
   "songs": [
     {
       "position": 0,
@@ -555,7 +555,7 @@
     {
       "position": 18,
       "title": "The Heart of Life",
-      "tonality": null,
+      "tonality": "+1 Tono",
       "public_notes": "",
       "slots": [
         {
@@ -967,7 +967,7 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
@@ -976,6 +976,69 @@
         },
         {
           "display_name": "Voce",
+          "musician": "Alis Giacobbe",
+          "status": "locked"
+        },
+        {
+          "display_name": "Sax",
+          "musician": "Tommaso vanotti",
+          "status": "locked"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "carlo erlank",
+          "status": "locked"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": "gabriele contini",
+          "status": "locked"
+        },
+        {
+          "display_name": "Cori",
+          "musician": "Davide Liuzzi",
+          "status": "locked"
+        },
+        {
+          "display_name": "Cori",
+          "musician": "Ambra",
+          "status": "locked"
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "title": "Smooth Operator",
+      "tonality": null,
+      "public_notes": "Chitarra Sofia Brovelli",
+      "slots": [
+        {
+          "display_name": "Batteria",
+          "musician": "Davide Liuzzi",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Basso",
+          "musician": "Lorenzo Comoli",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
+          "musician": null,
+          "status": "open"
+        },
+        {
+          "display_name": "Voce",
+          "musician": "Auri",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Tastiere",
+          "musician": "Gonza",
+          "status": "tentative"
+        },
+        {
+          "display_name": "Chitarra",
           "musician": null,
           "status": "open"
         },
@@ -983,21 +1046,6 @@
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
           "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "gabriele contini",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Cori",
-          "musician": "Davide Liuzzi",
-          "status": "locked"
         }
       ]
     }
