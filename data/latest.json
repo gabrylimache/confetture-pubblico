@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-28T17:35:21.949035Z",
+  "published_at": "2026-10-28T17:43:49.804168Z",
   "songs": [
     {
       "position": 0,
@@ -702,23 +702,23 @@
       "slots": [
         {
           "display_name": "Batteria",
-          "musician": null,
-          "status": "open"
+          "musician": "Davide Liuzzi",
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiera",
           "musician": "carlo erlank",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -845,12 +845,12 @@
         {
           "display_name": "Batteria",
           "musician": "Davide Liuzzi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
-          "musician": null,
-          "status": "open"
+          "musician": "Giulio Cérou",
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -865,7 +865,7 @@
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -896,7 +896,7 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
@@ -906,12 +906,12 @@
         {
           "display_name": "Voce",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Ritmica",
           "musician": "“clessidra” poletti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra Principale",
@@ -929,7 +929,7 @@
         {
           "display_name": "Batteria",
           "musician": "Simone Tuia",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
@@ -939,7 +939,7 @@
         {
           "display_name": "Chitarra",
           "musician": "gabriele contini",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra 2",
@@ -949,7 +949,7 @@
         {
           "display_name": "Sax",
           "musician": "Tommaso vanotti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
