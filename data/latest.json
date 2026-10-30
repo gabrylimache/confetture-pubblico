@@ -3,7 +3,7 @@
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
   "snapshot_kind": "provisional",
-  "published_at": "2026-10-28T21:45:54.919742Z",
+  "published_at": "2026-10-30T10:57:35.907443Z",
   "songs": [
     {
       "position": 0,
@@ -700,8 +700,8 @@
         },
         {
           "display_name": "Basso",
-          "musician": null,
-          "status": "open"
+          "musician": "Giulio Cérou",
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -782,12 +782,12 @@
         {
           "display_name": "Batteria",
           "musician": "Mattia Giorcelli",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Basso",
           "musician": "Sebastiano Marchetti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -802,12 +802,12 @@
         {
           "display_name": "Chitarra Elettrica",
           "musician": "Tommaso Magnaghi",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Tastiere",
           "musician": "carlo erlank",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -820,7 +820,7 @@
         {
           "display_name": "Basso",
           "musician": "Sebastiano Marchetti",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Voce",
@@ -835,7 +835,7 @@
         {
           "display_name": "Chitarra Melodie",
           "musician": "Tommaso Magnaghi",
-          "status": "tentative"
+          "status": "locked"
         }
       ]
     },
@@ -929,7 +929,7 @@
         {
           "display_name": "Basso",
           "musician": "Giulio Cérou",
-          "status": "tentative"
+          "status": "locked"
         },
         {
           "display_name": "Chitarra",
@@ -950,82 +950,6 @@
           "display_name": "Tastiere",
           "musician": "Gonza",
           "status": "locked"
-        }
-      ]
-    },
-    {
-      "position": 26,
-      "title": "Movie",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Sebastiano Marchetti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": "Giulio Cérou",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra Accordi",
-          "musician": "Tommaso Magnaghi",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Chitarra Melodie",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
-        }
-      ]
-    },
-    {
-      "position": 27,
-      "title": "Will I See You Again?",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Simone Tuia",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Basso",
-          "musician": "Giulio Cérou",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Voce",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Cori",
-          "musician": null,
-          "status": "open"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "Michele Graziotti",
-          "status": "tentative"
-        },
-        {
-          "display_name": "Tastiere",
-          "musician": "carlo erlank",
-          "status": "tentative"
         }
       ]
     }
