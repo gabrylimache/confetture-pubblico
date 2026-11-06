@@ -2,8 +2,8 @@
   "schema_version": 1,
   "confettura_name": "Confettura 8 Novembre Groove & Chill",
   "event_date": "2026-11-08",
-  "snapshot_kind": "official",
-  "published_at": "2026-11-02T18:51:30.466138Z",
+  "snapshot_kind": "provisional",
+  "published_at": "2026-11-06T16:54:32.267338Z",
   "songs": [
     {
       "position": 0,
@@ -72,42 +72,6 @@
         {
           "display_name": "Tastiere",
           "musician": "Gonza",
-          "status": "locked"
-        }
-      ]
-    },
-    {
-      "position": 2,
-      "title": "Angeles",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Voce",
-          "musician": "Auri",
-          "status": "locked"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        }
-      ]
-    },
-    {
-      "position": 3,
-      "title": "Clementine",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Chitarra",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Voce",
-          "musician": "“clessidra” poletti",
           "status": "locked"
         }
       ]
@@ -746,62 +710,6 @@
       ]
     },
     {
-      "position": 20,
-      "title": "Felini",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Chitarra",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Voce Maccucciu",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Voce Venerus",
-          "musician": "Gonza",
-          "status": "locked"
-        },
-        {
-          "display_name": "Flauto",
-          "musician": null,
-          "status": "open"
-        }
-      ]
-    },
-    {
-      "position": 21,
-      "title": "Luminarie",
-      "tonality": null,
-      "public_notes": "",
-      "slots": [
-        {
-          "display_name": "Batteria",
-          "musician": "Davide Liuzzi",
-          "status": "locked"
-        },
-        {
-          "display_name": "Chitarra",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Voce",
-          "musician": "“clessidra” poletti",
-          "status": "locked"
-        },
-        {
-          "display_name": "Tastiera",
-          "musician": "carlo erlank",
-          "status": "locked"
-        }
-      ]
-    },
-    {
       "position": 22,
       "title": "The Heart of Life",
       "tonality": "+1 Tono",
@@ -928,7 +836,7 @@
         },
         {
           "display_name": "Voce",
-          "musician": "“clessidra” poletti",
+          "musician": "Gioele Garolla",
           "status": "locked"
         },
         {
@@ -966,13 +874,13 @@
       "Davide Liuzzi": "pdfs/scaletta-davide_liuzzi.pdf",
       "Alis Giacobbe": "pdfs/scaletta-alis_giacobbe.pdf",
       "Auri": "pdfs/scaletta-auri.pdf",
-      "“clessidra” poletti": "pdfs/scaletta-clessidra_poletti.pdf",
       "Mattia Giorcelli": "pdfs/scaletta-mattia_giorcelli.pdf",
       "Sebastiano Marchetti": "pdfs/scaletta-sebastiano_marchetti.pdf",
       "Gioele Garolla": "pdfs/scaletta-gioele_garolla.pdf",
       "Ambra": "pdfs/scaletta-ambra.pdf",
       "carlo erlank": "pdfs/scaletta-carlo_erlank.pdf",
       "Lorenzo Comoli": "pdfs/scaletta-lorenzo_comoli.pdf",
+      "“clessidra” poletti": "pdfs/scaletta-clessidra_poletti.pdf",
       "Michele Graziotti": "pdfs/scaletta-michele_graziotti.pdf",
       "Alejandro Bellagente": "pdfs/scaletta-alejandro_bellagente.pdf"
     }
